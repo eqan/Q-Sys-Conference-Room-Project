@@ -2,9 +2,11 @@
 
 A single-room conferencing system in Q-SYS Designer: ten-mic speech processing, program and call audio, two-camera switching, and a touchpanel with two operating modes.
 
-![Schematic](image/README/1794958928583.png)
+![User Interface](image/README/1794958928583.png)
 
-![Touchpanel](image/README/1794959425139.png)
+![Schematic](image/README/1794959767465.png)
+
+![Admin Panel](image/README/1794959838239.png)
 
 An **NV-32-H** (`Conf-Core`) runs the room. Every inventory item is located in `Conf-Room`.
 
